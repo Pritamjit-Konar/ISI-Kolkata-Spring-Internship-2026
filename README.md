@@ -25,7 +25,7 @@ The goal of this project is to perform exploratory data analysis (EDA) on a sale
 - NumPy
 - Matplotlib
 - Seaborn
-- Jupyter Notebook
+- Google Colab
 
 ---
 
